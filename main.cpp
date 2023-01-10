@@ -13,7 +13,7 @@ int main()
         area = width * height * length;
         std::cout << "volume -> " << area;
         std::cout << std::endl;
-        return 0;
+        
     
 
 	return 0;
